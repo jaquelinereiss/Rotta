@@ -21,4 +21,4 @@ Rotta é um projeto de website interativo focado em apresentar destinos de viage
 ▫️ Prévia:
 <br><br>
 
-![pagina-principal-rotta](https://github.com/user-attachments/assets/9bcb5a69-2d5f-490f-827c-32046f090101)
+![pagina-principal-rotta](https://github.com/user-attachments/assets/16e1c526-6b03-4ff8-9b3f-a04af5b16995)
