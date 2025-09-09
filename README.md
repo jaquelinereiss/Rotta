@@ -32,7 +32,6 @@ Este projeto foi criado com foco em praticar e aplicar conceitos de front-end mo
 
 🔍 Filtro de busca por destinos <br>
 🌎 Integração com API externa de viagens <br>
-💬 Seção de feedbacks e depoimentos de usuários <br>
 
 ## 👩‍💻 Autora
 
