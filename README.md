@@ -1,13 +1,11 @@
 # 🗺 Rotta
 
-Um website interativo desenvolvido com HTML, Tailwind CSS, Bootstrap e JavaScript, com o objetivo de apresentar destinos de viagem imperdíveis de forma envolvente e intuitiva.
-O projeto combina design moderno, animações suaves e carregamento dinâmico de conteúdo, proporcionando uma experiência imersiva para o usuário.
+Um website interativo desenvolvido com o objetivo de apresentar destinos de viagem de forma envolvente e intuitiva. O projeto combina design moderno, animações suaves e carregamento dinâmico de conteúdo, proporcionando uma experiência imersiva para o usuário.
 
 ## 📌 Objetivo do Projeto
 
 Este projeto foi criado com foco em praticar e aplicar conceitos de front-end moderno, como:
 - Estruturação de layouts responsivos
-- Uso combinado de Tailwind CSS e Bootstrap para estilização
 - Implementação de carrossel interativo
 - Criação de cards dinâmicos de destinos
 - Manipulação do DOM com JavaScript
@@ -16,22 +14,22 @@ Este projeto foi criado com foco em praticar e aplicar conceitos de front-end mo
 ## ⚙️ Tecnologias Utilizadas
 
 - HTML5
-- Tailwind CSS
-- Bootstrap
+- Tailwind CSS (para estilos)
+- Bootstrap (para ícones visuais)
 - JavaScript (ES6+)
 
 ## 💡 Funcionalidades
 
-- Seção de serviços oferecidos pela Rotta
-- Carrossel interativo com destinos populares
-- Grade de cartões exibindo os principais destinos
-- Design customizado e responsivo com Tailwind CSS e Bootstrap
-- Carregamento dinâmico dos destinos via JavaScript
+🧾 Seção de serviços oferecidos pela Rotta <br>
+✈ Carrossel interativo com destinos populares <br>
+🧭 Grade de cartões exibindo os principais destinos <br>
+🌎 Carregamento dinâmico dos destinos via JavaScript <br>
+📱 Design customizado e responsivo com Tailwind CSS e Bootstrap
 
 ## 📈 Possíveis melhorias futuras
 
-🔍 Filtro de busca por destinos <br>
 🌎 Integração com API externa de viagens <br>
+🔍 Filtro de busca por destinos <br>
 
 ## 👩‍💻 Autora
 
@@ -39,4 +37,5 @@ Desenvolvido por [Jaqueline Reis](https://github.com/jaquelinereiss) – Projeto
 
 ## 📷 Preview
 
-![pagina-principal-rotta](https://github.com/user-attachments/assets/16e1c526-6b03-4ff8-9b3f-a04af5b16995)
+<img width="1500" height="3116" alt="preview-Rotta" src="https://github.com/user-attachments/assets/e2a3d0b1-7b28-4512-81c9-8ff4b81144c6"/>
+
