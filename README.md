@@ -6,17 +6,18 @@ Um website interativo desenvolvido com o objetivo de apresentar destinos de viag
 
 Este projeto foi criado com foco em praticar e aplicar conceitos de front-end moderno, como:
 - Estruturação de layouts responsivos
-- Implementação de carrossel interativo
-- Criação de cards dinâmicos de destinos
-- Manipulação do DOM com JavaScript
-- Boas práticas de organização e experiência do usuário
+- Implementação de carrossel interativo em React
+- Criação de componentes reutilizáveis (cards de destinos, carrossel, seções de serviços)
+- Consumo e gerenciamento de dados com arrays e JSON
+- Boas práticas de organização de pastas e código em projetos React
 
 ## ⚙️ Tecnologias Utilizadas
 
-- HTML5
-- Tailwind CSS (para estilos)
-- Bootstrap (para ícones visuais)
-- JavaScript (ES6+)
+- React (estrutura principal do projeto)
+- Vite (build rápido e leve)
+- Tailwind CSS (para estilos customizados e responsivos)
+- Bootstrap Icons (para ícones visuais)
+- JavaScript (ES6+) integrado ao React
 
 ## 💡 Funcionalidades
 
@@ -37,5 +38,6 @@ Desenvolvido por [Jaqueline Reis](https://github.com/jaquelinereiss) – Projeto
 
 ## 📷 Preview
 
-<img width="1500" height="3116" alt="preview-Rotta" src="https://github.com/user-attachments/assets/e2a3d0b1-7b28-4512-81c9-8ff4b81144c6"/>
+<img width="1600" height="3216" alt="previewRotta" src="https://github.com/user-attachments/assets/13fe6b74-40af-4c20-a71d-c1dbbe05cf02" />
+
 
